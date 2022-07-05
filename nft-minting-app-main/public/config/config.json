@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0fcE3B5d492Dd32bCf3fB646c3AB4b50cEBf36Ae",
+  "SCAN_LINK": "https://etherscan.io/address/0x0fce3b5d492dd32bcf3fb646c3ab4b50cebf36ae",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Ai Murakami Flower",
+  "SYMBOL": "AIMK",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ai-murakami",
+  "SHOW_BACKGROUND": true
+}
